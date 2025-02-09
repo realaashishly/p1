@@ -21,7 +21,7 @@ export default function Hero() {
           ))}
         </div>
         <div className="relative text-center mt-4">
-          <h1 className="whitespace-nowrap leading-none font-bold uppercase text-yellow text-5xl sm:text-6xl md:text-8xl lg:text-[205px]">
+          <h1 className="whitespace-nowrap leading-none font-bold uppercase text-yellow text-7xl lg:text-[205px]">
             {['A', 'A', 'S', 'H', 'I', 'S', 'H'].map((char, index) => (
               <span key={`first-${index}`} className="inline-block">
                 {char}

@@ -6,7 +6,7 @@ interface CardProps {
 
 export default function Card({ head, subhead, percentage }: CardProps) {
     return (
-        <div className='bg-yellow-100 p-6 rounded-lg flex flex-col md:flex-row justify-between items-center gap-4'>
+        <div className='bg-yellow p-6 rounded-lg flex justify-between items-center gap-4'>
             {/* Text Section */}
             <div className='flex flex-col space-y-2 flex-1'>
                 <h4 className='text-black text-xl md:text-2xl font-medium'>
