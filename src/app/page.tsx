@@ -1,6 +1,5 @@
 import About from '@/components/about';
 import Arts from '@/components/arts';
-import Card from '@/components/card';
 import Contact from '@/components/contact';
 import Footer from '@/components/footer';
 import Hero from '@/components/hero';

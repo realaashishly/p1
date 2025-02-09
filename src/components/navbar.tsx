@@ -1,6 +1,3 @@
-import { Menu } from 'lucide-react';
-import { ModeToggle } from './theme/toggle';
-
 export default function Navbar() {
     return (
         <div className='flex justify-center items-center h-24 mt-6'>
